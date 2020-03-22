@@ -13,7 +13,7 @@
 ### 实现过程：
 #### 1、官网下载PuTTY(64-bit)  
 #### 2、设置网卡2，连接方式为Host-Only, 如图  
-![Set Host-Only](image/SetHostOnly.PNG)  
+![](image/SetHostOnly.png)  
 #### 3、启动虚拟机ubuntu-server-18.04.4
 #### 4、ubuntu命令行输入命令 `ifconfig -a`查看网卡状态, 如图  
 ![ifconfig](image/ifconfigViewStatus.PNG)  
